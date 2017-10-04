@@ -1,0 +1,11 @@
+# Project
+.idea
+.ipynb_checkpoints
+
+# Python
+__pycache__
+*.pyc
+
+# Log
+*.log
+tfboard-log
