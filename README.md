@@ -8,5 +8,5 @@ All examples predict sin graph.
 |:-----|:------|:--------|:------------|
 | **01_rnn_keras** | Synced RNN | Keras | |
 | **02_rnn_tensorflow** | Synced RNN | Tensorflow | It does not use contrib library |
-| **03_rnn_tensorflow** | Synced RNN | Tensorflow | It does not use contrib library <br>It is another way of making RNN |
+| **03_rnn_tensorflow** | Synced RNN | Tensorflow | It does not use contrib library <br>It combines input and hidden units |
 | **04_seq2seq_keras** | Delayed RNN | Keras      | Predicting sin with delayed RNN in Keras |
