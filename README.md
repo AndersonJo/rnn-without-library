@@ -7,6 +7,6 @@ All examples predict sin graph.
 | File | Model | Library | Description |
 |:-----|:------|:--------|:------------|
 | **01_rnn_keras** | Synced RNN | Keras | |
-| **02_rnn_tensorflow** | Synced RNN | Tensorflow | It does not use contrib library |
-| **03_rnn_tensorflow** | Synced RNN | Tensorflow | It does not use contrib library <br>It combines input and hidden units |
-| **04_seq2seq_keras** | Delayed RNN | Keras      | Predicting sin with delayed RNN in Keras |
+| **02_rnn_tensorflow** | Synced RNN | Tensorflow | Impledmented without contrib code |
+| **03_rnn_tensorflow** | Synced RNN | Tensorflow | Impledmented without contrib code <br>It combines input and hidden units |
+| **04_seq2seq_keras** | Delayed RNN | Keras      |  |
